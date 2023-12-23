@@ -50,7 +50,7 @@ video:hover {
   color: #ffffff;
 }
 .loader-text {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 700;
   background: linear-gradient(to right, #5a00b4, #418ce9);
   -webkit-background-clip: text;
@@ -64,7 +64,7 @@ video:hover {
   }
 
   100% {
-    width: 430px;
+    width: 210px;
   }
 }
 
